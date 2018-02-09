@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MessagesAndFiles</string>
+    <string name="title_inbox">BANDEJA DE ENTRADA</string>
+    <string name="title_message">MENSAJE</string>
+
+    <string name="name_assets_file">dbapi.properties</string>
+    <string name="assets_data_base_path">filepath</string>
+    <string name="assets_data_files_path">fileProyectSD</string>
+    <string name="assets_data_base_version">version</string>
+
+    <string name="bundldeExtra">bundleExtras</string>
+    <string name="labelContinue">CONTINUAR</string>
+
+
+</resources>

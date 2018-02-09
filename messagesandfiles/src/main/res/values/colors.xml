@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFFFF</color>
+    <color name="colorAccent">#FFFFFFFF</color>
+
+    <color name="colorTitleActivity">#FFFFFFFF</color>
+
+    <color name="colorZebraPair">#F6f6f6</color>
+    <color name="colorZebraOdd">#e5e5e5</color>
+
+
+</resources>
